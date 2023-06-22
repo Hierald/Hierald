@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Maths and Networking**
 
-- 📫 You can reach me as **alecarp0304@gmail.com**
+- 📫 You can reach me as **hieraldyanqui@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
