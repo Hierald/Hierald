@@ -1,4 +1,3 @@
-![Apra](https://apraperu.com/wp-content/uploads/2019/08/banner4.jpg)
 <h1 align="center">Hi there! 👋, I'm Hierald</h1>
 <h3 align="center">I am a telecommunications engineering student from Peru.</h3>
 
